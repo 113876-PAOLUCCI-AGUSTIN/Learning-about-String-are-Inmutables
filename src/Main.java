@@ -19,5 +19,13 @@ public class Main {
         * FALSE. Porque al crear el String con NEW. Es un objeto que no está en el
         * STRING de la memoria. Está en el HEAP pero no en el STRING POOL.
         */
+
+        System.out.println(str01.equals(str03));
+        /*
+         * TRUE.
+         * IMPORTANTE:
+         * El METODO EQUALS compara CONTENIDO independientemente de donde este ubicado
+         * en memoria ese String.
+         */
     }
 }
