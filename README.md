@@ -1,2 +1,4 @@
 # Learning-about-String-are-Inmutables
- Inmutabilidad del String. Memoria HEAP y objetos en Java.
+ Inmutabilidad del String. Espacio en memoria: String Pool y espacio HEAP.
+
+![alt text](https://www.javastring.net/wp-content/uploads/java-string-pool.png)
