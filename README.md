@@ -2,4 +2,4 @@
  Inmutabilidad del String. Espacio en memoria: String Pool y espacio HEAP.
 
 ![alt text](https://www.javastring.net/wp-content/uploads/java-string-pool.png)
-Source: [](https://www.javastring.net/)
+Source: https://www.javastring.net/ 
